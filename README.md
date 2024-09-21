@@ -8,8 +8,8 @@ In the future, I plan to explore and incorporate React to build more dynamic, mo
 
 # PROJECTS
 
-**1. Color Changer**
-**Description:** A straightforward web application that alters the background color of the webpage upon clicking a button, allowing users to see the change in real-time.
+# 1. Color Changer  
+**Description:** A straightforward web application that alters the background color of the webpage upon clicking a button, allowing users to see the change in real-time.  
 **Skills:** Document Object Model (DOM) manipulation, event handling, HTML Structure and CSS styling.
 
 **2. Random Quote Generator** 
