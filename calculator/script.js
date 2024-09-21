@@ -21,6 +21,7 @@ function handleButtonClick(event) {
     }
 }
 
+//It’s easier to just import an arithmetic library
 function calculateResult(values)
 {
     const numbers = values.join('');
