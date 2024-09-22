@@ -17,8 +17,8 @@ In the future, I plan to explore and incorporate React to build more dynamic, mo
 **Skills:** Working with arrays, handling events, and dynamically modifying the DOM.  
 
 # 3. Countdown Timer
-**Description:**A countdown timer that tracks the time remaining until a specific date and time. It refreshes every second, showing the remaining time in days, hours, minutes, and seconds.  
-**Skills:**Working with date functions, utilizing setInterval, and formatting user output.  
+**Description:** A countdown timer that tracks the time remaining until a specific date and time. It refreshes every second, showing the remaining time in days, hours, minutes, and seconds.  
+**Skills:** Working with date functions, utilizing setInterval, and formatting user output.  
 
 # 4. Calculator  
 **Description:** A simple calculator that carries out basic operations such as addition, subtraction, multiplication, and division.  
