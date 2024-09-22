@@ -1,7 +1,7 @@
 .random_quote{
     height: 500px;
     width: 500px;
-    background-color: cyan;
+    background-color: rgb(0, 255, 115);
     border-width: 5px;
     border-color: black;
     display: flex;
@@ -13,10 +13,17 @@
 .display{
     height: 200px;
     width: 400px;
-    background-color: rgb(243, 133, 133);
-    border-color: rgb(235, 118, 118);
+    background-color: rgb(44, 42, 42);
+    margin: 30px;
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-width: 10px;
-    margin: 10px;
+    border-style: double;
+    border-color: rgb(0, 0, 0); 
 }
 
 button.quote{
