@@ -1,0 +1,32 @@
+.random_quote{
+    height: 500px;
+    width: 500px;
+    background-color: cyan;
+    border-width: 5px;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.display{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(243, 133, 133);
+    border-color: rgb(235, 118, 118);
+    border-width: 10px;
+    margin: 10px;
+}
+
+button.quote{
+    height: 100px;
+    width: 200px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(252, 235, 213, 0.87);
+    border-color: rgba(241, 210, 169, 0.87);
+    border-width: 5px;
+    cursor: pointer;
+}
