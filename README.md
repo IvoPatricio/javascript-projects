@@ -29,7 +29,7 @@ In the future, I plan to explore and incorporate React to build more dynamic, mo
 **Skills:** Performing CRUD operations, utilizing local storage, and handling user interactions.  
 
 # 6. Portfolio   
-**Description:** A personal website featuring details about me. It serves as a platform to showcase some of my work.  
+**Description:** A personal website featuring details about me. It will serve as a platform to showcase some of my work in javascript.
 **Skills:** Responsive design, HTML/CSS layout techniques, and basic JavaScript for interactivity.  
 
 # 7. Trivia Quiz  
